@@ -1,0 +1,4 @@
+aiogram>=3.7
+aiosqlite>=0.19
+# docker>=7.0  # только для BACKEND=docker
+python-dotenv>=1.0
